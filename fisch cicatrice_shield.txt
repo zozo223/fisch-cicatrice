@@ -1,5 +1,3 @@
--- Cicatrice Shield v1.0 | Build: 0xC73757B7 | 2026-08-24 07:23
--- Protected by Cicatrice Shield | Level: heavy
 do if (bit32.band(17941,0)==1) then
 local _0x71a521 = {}
 local _0x56bc35 = string.byte
